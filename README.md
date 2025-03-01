@@ -18,4 +18,4 @@ javac Graph.java GraphTraversal.java Prog1.java
 ```
 ## How to Run
 ```bash
-java Prog1 <your_filename>.txt
+java Prog1 <your_input_file's_file_path>
