@@ -4,7 +4,7 @@ CS 3310, Spring 2025
 Programming Assignment 1  
 
 ## Description
-This Java program reads an undirected graph from a file, determines its connected components using Depth-First Search, and outputs the result. Each line in the input file represents a separate graph, where the first number indicates the number of vertices, followed by pairs of vertices representing edges.
+Java program that reads an undirected graph from a file and determines the connectivity of its vertices using Depth-First-Search, outputting the results
 
 ## Files
 - `Prog1.java` – Main class that reads input and runs the program.
@@ -12,7 +12,7 @@ This Java program reads an undirected graph from a file, determines its connecte
 - `GraphTraversal.java` – Utility class for parsing and processing graphs.
 
 ## How to Compile
-Open a terminal and navigate to its directory. Then, run:
+Open a terminal and navigate to the program's directory. Then, run:
 ```bash
 javac Graph.java GraphTraversal.java Prog1.java
 ```
